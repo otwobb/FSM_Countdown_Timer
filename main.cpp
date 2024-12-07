@@ -1,6 +1,7 @@
 //EEEN20011 Lab 2
 //Oliver Brown
 //Student ID: 11310030
+//Countdown timer implemented as an FSM
 
 #include "mbed.h"
 #include "C12832.h" //Imports the library for the LCD screen
