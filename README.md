@@ -6,3 +6,4 @@ This code is not perfect by any means and scored 84% in the assessment. Some iss
 - Adding a countdown animation prior to timer starting
 - Adding features from the instructions that I forgot about in the final build
 
+When I have completed the module and gained more experience I will come back and improve the code
